@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+
+    <title></title>
+    @*@Scripts.Render("~/Scripts/scripts.js")*@
+</head>
+<body>
+    <div id="name"></div>
+    <div id="age"></div>
+    <button onclick="GetPersonOnClick()">GetPerson</button>
+    
+    <script type="text/javascript">
+
+        let nameField = document.getElementById("name");
+        let ageField = document.getElementById("age");
+
+        async function GetPersonOnClick()
+        {
+            alert("hello");
+            let response = await fetch("https://localhost:44321/api/test/getperson");
+
+            if (response.ok) {
+                let json = await response.json();
+
+                nameField.innerHTML = json.Name;
+                ageField.innerHTML = json.Age;
+            }
+            else {
+                alert("HTML Error" + response.status);
+            }
+        }
+        
+    </script>
+</body>
+</html>
