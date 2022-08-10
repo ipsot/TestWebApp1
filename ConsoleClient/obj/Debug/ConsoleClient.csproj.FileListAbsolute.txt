@@ -1,0 +1,10 @@
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\mort8\source\repos\TestWebApi1\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
