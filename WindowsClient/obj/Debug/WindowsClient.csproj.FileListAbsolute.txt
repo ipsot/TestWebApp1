@@ -1,0 +1,13 @@
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\obj\Debug\WindowsClient.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\obj\Debug\WindowsClient.Form1.resources
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.cache
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\bin\Debug\WindowsClient.exe.config
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\bin\Debug\WindowsClient.exe
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\bin\Debug\WindowsClient.pdb
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\obj\Debug\WindowsClient.csproj.CopyComplete
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\obj\Debug\WindowsClient.exe
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\obj\Debug\WindowsClient.pdb
+C:\Users\mort8\source\repos\TestWebApi1\WindowsClient\obj\Debug\WindowsClient.csproj.CoreCompileInputs.cache
